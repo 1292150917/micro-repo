@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-02-22 19:17:31
- * @LastEditTime: 2020-02-22 19:30:58
+ * @LastEditTime: 2020-02-22 19:33:41
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \yjhlc:\Users\zhamgzifang\Desktop\wqd\README.md
@@ -50,8 +50,16 @@ npm serve
 
 打开http://localhost:8080/ 就可以看到效果了
 
-![Image text]()
+未开发完成~同步更新，带你领略不一样的微前端~
 
-未完待续~同步更新，带你领略不一样的微前端~
+下次新增
+
+>react环境
+>传参
+>页面跳转
+>有具体的实现页面~
+
+![Image text](https://github.com/1292150917/micro-repo/blob/master/img.png?raw=true)
+
 
 有感想兴趣，可以加前端Q群：981047698 互相学习
